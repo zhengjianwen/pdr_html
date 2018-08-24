@@ -1,5 +1,5 @@
 /* 头部 */
-header{padding: 0 0.36rem!important;background: #fff;position: fixed!important;top:0;left: 0;width: 100%;}
+header{padding: 0 0.36rem!important;background: #fff!important;position: fixed!important;top:0;left: 0;width: 100%;}
 header #searchInp{  
     background: #F2F2F2;
     border: 1px solid #f2f2f2;
